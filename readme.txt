@@ -1,4 +1,6 @@
 Hey there!!!
+It's Aprajita
+Welcome to Weather App
 Treat this file as readme for the "WEATHER+" webapp.
 So soon there will be a seprate github repo for the same.
 To view this website:
@@ -11,6 +13,4 @@ bootstarp is widely used here with all the assests in the assest folder.
 Weather app uses openweather api with limit of 60 request per minute.
 weather report page is targetted to blank.
 entire project is responsive to any screen size.
-visit this git repo
-https://github.com/adityasuman990/Health-
 
